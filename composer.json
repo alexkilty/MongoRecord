@@ -1,0 +1,13 @@
+{
+  "name": "lunaru/mongorecord",
+  "version": "0.1",
+  "description": "Fork with composer",
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload":{
+    "classmap":[
+      "lib"
+    ]
+  }
+}
